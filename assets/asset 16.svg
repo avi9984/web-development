@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="117px" height="82px" viewBox="0 0 117 82" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="100%" x2="100%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#6C63FF" stop-opacity="0.201681386" offset="0%"></stop>
+            <stop stop-color="#6C63FF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="0" width="38" height="10"></rect>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-3">
+            <feMorphology radius="1.0042033" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="5" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="6" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.423529412   0 0 0 0 0.388235294   0 0 0 0 1  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMorphology radius="1.0042033" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter2"></feMorphology>
+            <feOffset dx="0" dy="5" in="shadowSpreadOuter2" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="6" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter2" in2="SourceAlpha" operator="out" result="shadowBlurOuter2"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-4" x="0" y="0" width="38" height="10"></rect>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-5">
+            <feMorphology radius="1.0042033" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="5" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="6" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.423529412   0 0 0 0 0.388235294   0 0 0 0 1  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMorphology radius="1.0042033" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter2"></feMorphology>
+            <feOffset dx="0" dy="5" in="shadowSpreadOuter2" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="6" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter2" in2="SourceAlpha" operator="out" result="shadowBlurOuter2"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-6" x="0" y="0" width="38" height="10"></rect>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-7">
+            <feMorphology radius="1.0042033" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="5" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="6" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.423529412   0 0 0 0 0.388235294   0 0 0 0 1  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMorphology radius="1.0042033" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter2"></feMorphology>
+            <feOffset dx="0" dy="5" in="shadowSpreadOuter2" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="6" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter2" in2="SourceAlpha" operator="out" result="shadowBlurOuter2"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Landing-page-" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="csspeeper_landing_v2" transform="translate(-1052.000000, -1785.000000)">
+            <g id="Colors-Copy" transform="translate(0.000000, 1545.000000)">
+                <g id="Group-11" transform="translate(1052.000000, 239.000000)">
+                    <g id="Group-2" transform="translate(0.000000, 1.000000)">
+                        <g id="colors">
+                            <rect id="Rectangle" fill="url(#linearGradient-1)" x="0" y="0" width="96" height="60" rx="3.01260991"></rect>
+                            <g id="design-24px-outline_clone" opacity="0.5" transform="translate(13.000000, 14.000000)" stroke="#6C63FF" stroke-width="2.00840661">
+                                <path d="M12,5 L3,14 C3,14 2.366,16 2,16 C0.895,16 0,16.895 0,18 C0,19.105 0.895,20 2,20 C3.105,20 4,19.105 4,18 C4,17.634 6,17 6,17 L15,8" id="Shape"></path>
+                                <path d="M18,5 L19.379,3.621 C20.207,2.793 20.207,1.449 19.379,0.621 C18.555,-0.203 17.21,-0.21 16.379,0.621 L15,2 L13,0 L10,3 L17,10 L20,7 L18,5 Z" id="Shape"></path>
+                            </g>
+                            <g id="Group-17" transform="translate(32.000000, 16.000000)">
+                                <g id="mini-palette-copy" transform="translate(14.000000, 19.000000)">
+                                    <g id="Rectangle-path">
+                                        <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                                        <use stroke="#B5B1FF" stroke-width="2.00840661" stroke-linecap="round" stroke-linejoin="round" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-2"></use>
+                                    </g>
+                                    <path d="M4.75,5 L19.75,5" id="Line-Copy-10" stroke="#B5B1FF" stroke-width="2.00840661" stroke-linecap="round" stroke-linejoin="round" opacity="0.5"></path>
+                                </g>
+                                <g id="mini-palette" transform="translate(34.000000, 0.000000)">
+                                    <g id="Rectangle-path">
+                                        <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                                        <use stroke="#6C63FF" stroke-width="2.00840661" stroke-linecap="round" stroke-linejoin="round" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-4"></use>
+                                    </g>
+                                    <path d="M4.75,5 L19.75,5" id="Line-Copy-10" stroke="#6C63FF" stroke-width="2.00840661" stroke-linecap="round" stroke-linejoin="round" opacity="0.5"></path>
+                                </g>
+                                <g id="mini-palette-copy-2" transform="translate(0.000000, 38.000000)">
+                                    <g id="Rectangle-path">
+                                        <use fill="black" fill-opacity="1" filter="url(#filter-7)" xlink:href="#path-6"></use>
+                                        <use stroke="#6C63FF" stroke-width="2.00840661" stroke-linecap="round" stroke-linejoin="round" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-6"></use>
+                                    </g>
+                                    <path d="M4.75,5 L19.75,5" id="Line-Copy-10" stroke="#6C63FF" stroke-width="2.00840661" stroke-linecap="round" stroke-linejoin="round" opacity="0.5"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="97px" height="80px" viewBox="0 0 97 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 16</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="100%" x2="100%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#6C63FF" stop-opacity="0.201681386" offset="0%"></stop>
+            <stop stop-color="#6C63FF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-2" points="12.5 47 25 31.3333333 17.1875 31.3333333 17.1875 20.3666667 7.8125 20.3666667 7.8125 31.3333333 0 31.3333333"></polygon>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-3">
+            <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="5" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="6" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.423529412   0 0 0 0 0.388235294   0 0 0 0 1  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter2"></feMorphology>
+            <feOffset dx="0" dy="5" in="shadowSpreadOuter2" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="6" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter2" in2="SourceAlpha" operator="out" result="shadowBlurOuter2"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Landing-page-" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="csspeeper_landing_v2" transform="translate(-251.000000, -2515.000000)">
+            <g id="Inspector" transform="translate(0.000000, 2315.000000)">
+                <g id="Group-11" transform="translate(251.000000, 200.000000)">
+                    <g id="Group-16">
+                        <rect id="Rectangle" fill="url(#linearGradient-1)" x="0" y="0" width="96" height="60" rx="3"></rect>
+                        <g id="files-24px-outline_image" opacity="0.5" transform="translate(16.000000, 19.000000)" stroke="#6C63FF" stroke-width="2">
+                            <polyline id="Shape" stroke-linecap="round" stroke-linejoin="round" points="0 17 5.2 13 11.7 16 18.2 10 26 17"></polyline>
+                            <rect id="Rectangle-path" stroke-linecap="round" stroke-linejoin="round" x="0" y="0" width="26" height="22"></rect>
+                            <circle id="Oval" cx="8" cy="7" r="2"></circle>
+                        </g>
+                        <g id="Group" transform="translate(61.000000, 17.000000)">
+                            <g id="Shape">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                                <use stroke="#6C63FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-2"></use>
+                            </g>
+                            <path d="M17.1875,14 L7.8125,14" id="Shape" stroke="#6C63FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="#FFFFFF"></path>
+                            <path d="M15.625,7 L9.375,7" id="Shape-Copy" stroke="#6C63FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="#FFFFFF"></path>
+                            <path d="M14.0625,1 L10.9375,1" id="Shape-Copy-2" stroke="#6C63FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="#FFFFFF"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
